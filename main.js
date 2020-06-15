@@ -3,7 +3,7 @@
 *** Log the numbers from 1 to 20. (1, 2, 3,..., 19, 20)
 ***
 **/
-
+//  We Work together in a team( Elise,  Eugene, Shaun, Derick)
 
 console.log('%cKATA 01 RESULTS:', 'background: darkblue; color: white; font-weight: bold;')
 const mainElement = document.querySelector('main')
